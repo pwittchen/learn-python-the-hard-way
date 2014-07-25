@@ -1,6 +1,6 @@
 Learn Python - The Hard Way
 =========================
-Set of simple programs written during learning basics of Python language based on "Learn Python - The Hard Way" course.
+Set of simple programs written during learning **basics of Python** language based on "Learn Python - The Hard Way" course.
 ### Requirements
 * Windows, Linux or Mac OS X
 * Python 2.7
