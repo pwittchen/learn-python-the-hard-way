@@ -8,7 +8,7 @@ based on "Learn Python - The Hard Way" course.
 * Pip (Python Package Manager)
 
 ### Link to the course
-* http://learnpythonthehardway.org/book/
+http://learnpythonthehardway.org/book/
 
 ### Installing Python
 * on Linux: Most of the Linux distributions should have installed Python by default
