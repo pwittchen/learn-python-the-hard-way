@@ -27,7 +27,7 @@ http://learnpythonthehardway.org/book/
 4. Add /PythonXX/Scripts (e.g. C:/Python27/Scripts) directory into *Path* environmental variable.
 5. Re-run terminal window
 6. Type *pip*, to check if package manager works
-7. You can type *pip --version*, in order to check version of the pip.
+7. You can type *pip --version*, in order to check version of the pip
 
 ### Other resources
 * https://www.python.org/
