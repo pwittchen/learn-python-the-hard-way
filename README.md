@@ -1,13 +1,10 @@
 Learn Python - The Hard Way
 =========================
-Set of simple programs written during learning **basics of Python** language based on "Learn Python - The Hard Way" course.
+Set of simple programs written during learning **basics of Python** language based on *[Learn Python - The Hard Way](http://learnpythonthehardway.org/book/)* course.
 ### Requirements
 * Windows, Linux or Mac OS X
 * Python 2.7
 * Pip (Python Package Manager)
-
-### Link to the course
-http://learnpythonthehardway.org/book/
 
 ### Installing Python
 * on Linux: Most of the Linux distributions should have installed Python by default
@@ -33,13 +30,14 @@ http://learnpythonthehardway.org/book/
 * In order to install desired package just type *pip install desired_package* (e.g. *pip install Flask*)
 * Index of available packages can be found at: https://pypi.python.org/pypi/
 
-### Other resources
+### Resources
 * https://www.python.org/
+* http://learnpythonthehardway.org/book/
 * http://www.codecademy.com/en/tracks/python
 
 ### Popular Python web frameworks
-* https://www.djangoproject.com/
-* http://flask.pocoo.org/
+* [Django](https://www.djangoproject.com/)
+* [Flask](http://flask.pocoo.org/)
 
 ### License
 MIT
