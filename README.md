@@ -36,3 +36,6 @@ based on "Learn Python - The Hard Way" course.
 ### Popular Python web frameworks
 * https://www.djangoproject.com/
 * http://flask.pocoo.org/
+
+### License
+MIT
