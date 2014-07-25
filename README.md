@@ -18,7 +18,7 @@ Set of simple programs written during learning **basics of Python** language bas
 * in order to exit python console type *exit()*
 
 ### Installing Pip (Python Package Manager) on Windows
-1. Download: https://raw.github.com/pypa/pip/master/contrib/get-pip.py
+1. Download: https://raw.github.com/pypa/pip/master/contrib/get-pip.py script
 2. Execute: python get-pip.py
 3. *pip.exe* and *easy_install.exe* files now should be located at: /PythonXX/Scripts (e.g. C:/Python27/Scripts)
 4. Add /PythonXX/Scripts (e.g. C:/Python27/Scripts) directory into *Path* environmental variable.
