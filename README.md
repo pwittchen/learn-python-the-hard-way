@@ -29,7 +29,7 @@ http://learnpythonthehardway.org/book/
 6. Type *pip*, to check if package manager works
 7. You can type *pip --version*, in order to check version of the pip
 
-#### Remarks concerning pip
+#### Remarks concerning Pip
 * In order to install desired package just type *pip install desired_package* (e.g. *pip install Flask*)
 * Index of available packages can be found at: https://pypi.python.org/pypi/
 
