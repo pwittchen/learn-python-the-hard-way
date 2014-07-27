@@ -19,6 +19,8 @@ print persian_cat
 print backslash_cat
 print fat_cat
 
+#uncomment while instruction below, run it and see what happens!
+
 """
 while True:
     for i in ["/","-","|","\\","|"]:
