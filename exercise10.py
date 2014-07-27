@@ -30,12 +30,12 @@ while True:
 # Escape    What it does
 #===========================
 #\\         Backslash ()
-#\'	        Single-quote (')
+#\'         Single-quote (')
 #\"         Double-quote (")
 #\a         ASCII bell (BEL)
 #\b         ASCII backspace (BS)
 #\f         ASCII formfeed (FF)
-#\n			ASCII linefeed (LF)
+#\n         ASCII linefeed (LF)
 #\N{name}   Character named name in the Unicode database (Unicode only)
 #\r ASCII   Carriage Return (CR)
 #\t ASCII   Horizontal Tab (TAB)
