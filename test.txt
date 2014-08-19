@@ -1,3 +1,0 @@
-Line 1
-This line is gonna be changed
-Line 3
