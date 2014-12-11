@@ -43,6 +43,11 @@ Set of simple programs written during learning **basics of Python** language bas
 * http://learnpythonthehardway.org/book/
 * http://www.codecademy.com/en/tracks/python
 
+### Popular IDEs & editors
+* [PyCharm](https://www.jetbrains.com/pycharm/)
+* [Sublime Text](http://www.sublimetext.com/)
+* [Atom](https://atom.io/)
+
 ### Popular Python web frameworks
 * [Django](https://www.djangoproject.com/)
 * [Flask](http://flask.pocoo.org/)
