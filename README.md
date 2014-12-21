@@ -38,6 +38,10 @@ Set of simple programs written during learning **basics of Python** language bas
 * If you are working on Linux, type `sudo pip install desired_package` (e.g. `sudo pip install Flask`)
 * Index of available packages can be found at: https://pypi.python.org/pypi/
 
+### Unit Testing
+UT in Python can be done with [nose](https://pypi.python.org/pypi/nose/).
+Install it via pip with the following command: `sudo pip install nose`
+
 ### Resources
 * https://www.python.org/
 * http://learnpythonthehardway.org/book/
