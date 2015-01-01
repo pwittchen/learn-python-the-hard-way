@@ -33,14 +33,17 @@ Set of simple programs written during learning **basics of Python** language bas
 1. Open terminal
 2. Type `sudo apt-get install python-pip`
 
-#### Remarks concerning Pip
+#### Using Pip
 * In order to install desired package just type `pip install desired_package` (e.g. `pip install Flask`)
 * If you are working on Linux, type `sudo pip install desired_package` (e.g. `sudo pip install Flask`)
 * Index of available packages can be found at: https://pypi.python.org/pypi/
+* List of installed packages can be displayed with `pip freeze` command.
 
 ### Unit Testing
 UT in Python can be done with [nose](https://pypi.python.org/pypi/nose/).
 Install it via pip with the following command: `sudo pip install nose`
+
+UT can be also created with [unittest](https://docs.python.org/2/library/unittest.html) package provided with Python.
 
 ### Resources
 * https://www.python.org/
