@@ -60,5 +60,14 @@ based on *[Learn Python - The Hard Way](http://learnpythonthehardway.org/book/)*
 * [Flask](http://flask.pocoo.org/)
 * [Bottle](http://bottlepy.org/)
 
+### Virtualenv
+
+`virtualenv` is a tool to create isolated Python environments.
+
+More information:
+* [Overview on PyPi](https://pypi.python.org/pypi/virtualenv)
+* [Virtualenv tutorial](http://simononsoftware.com/virtualenv-tutorial/)
+* [A primer on virtualenv](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
+
 ### License
 MIT
