@@ -45,10 +45,14 @@ based on *[Learn Python - The Hard Way](http://learnpythonthehardway.org/book/)*
 * UT in Python can be done with [nose](https://pypi.python.org/pypi/nose/). Install it via pip with the following command: `sudo pip install nose`
 * UT can be also created with [unittest](https://docs.python.org/2/library/unittest.html) package provided with Python.
 
-### Resources
-* https://www.python.org/
-* http://learnpythonthehardway.org/book/
-* http://www.codecademy.com/en/tracks/python
+### Virtualenv
+
+`virtualenv` is a tool to create isolated Python environments.
+
+More information:
+* [Overview on PyPi](https://pypi.python.org/pypi/virtualenv)
+* [Virtualenv tutorial](http://simononsoftware.com/virtualenv-tutorial/)
+* [A primer on virtualenv](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
 
 ### Popular IDEs & editors
 * [PyCharm](https://www.jetbrains.com/pycharm/)
@@ -60,14 +64,10 @@ based on *[Learn Python - The Hard Way](http://learnpythonthehardway.org/book/)*
 * [Flask](http://flask.pocoo.org/)
 * [Bottle](http://bottlepy.org/)
 
-### Virtualenv
-
-`virtualenv` is a tool to create isolated Python environments.
-
-More information:
-* [Overview on PyPi](https://pypi.python.org/pypi/virtualenv)
-* [Virtualenv tutorial](http://simononsoftware.com/virtualenv-tutorial/)
-* [A primer on virtualenv](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
+### Resources
+* https://www.python.org/
+* http://learnpythonthehardway.org/book/
+* http://www.codecademy.com/en/tracks/python
 
 ### License
 MIT
