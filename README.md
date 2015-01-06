@@ -42,10 +42,8 @@ based on *[Learn Python - The Hard Way](http://learnpythonthehardway.org/book/)*
 * List of installed packages can be displayed with `pip freeze` command.
 
 ### Unit Testing
-UT in Python can be done with [nose](https://pypi.python.org/pypi/nose/).
-Install it via pip with the following command: `sudo pip install nose`
-
-UT can be also created with [unittest](https://docs.python.org/2/library/unittest.html) package provided with Python.
+* UT in Python can be done with [nose](https://pypi.python.org/pypi/nose/). Install it via pip with the following command: `sudo pip install nose`
+* UT can be also created with [unittest](https://docs.python.org/2/library/unittest.html) package provided with Python.
 
 ### Resources
 * https://www.python.org/
