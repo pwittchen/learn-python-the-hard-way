@@ -68,6 +68,7 @@ More information:
 * https://www.python.org/
 * http://learnpythonthehardway.org/book/
 * http://www.codecademy.com/en/tracks/python
+* http://www.diveintopython.net/
 
 ### License
 MIT
