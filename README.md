@@ -62,7 +62,7 @@ More information:
 * [Flask](http://flask.pocoo.org/)
 * [Bottle](http://bottlepy.org/)
 
-### Good Python libraries
+### Good & useful Python libraries
 * [Requests](https://github.com/kennethreitz/requests)
 * [Python Rex - regular expressions](https://github.com/cypreess/python-rex)
 
