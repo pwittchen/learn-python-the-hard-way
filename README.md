@@ -62,11 +62,15 @@ More information:
 * [Flask](http://flask.pocoo.org/)
 * [Bottle](http://bottlepy.org/)
 
+### Good Python libraries
+* [Requests](https://github.com/kennethreitz/requests)
+
 ### Resources
 * https://www.python.org/
 * http://learnpythonthehardway.org/book/
 * http://www.codecademy.com/en/tracks/python
 * http://www.diveintopython.net/
+* https://github.com/kennethreitz/python-guide
 
 ### License
 MIT
