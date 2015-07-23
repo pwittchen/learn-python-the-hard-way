@@ -64,6 +64,7 @@ More information:
 
 ### Good Python libraries
 * [Requests](https://github.com/kennethreitz/requests)
+* [Python Rex - regular expressions](https://github.com/cypreess/python-rex)
 
 ### Resources
 * https://www.python.org/
