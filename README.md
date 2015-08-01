@@ -65,7 +65,7 @@ More information:
 ### Good & useful Python libraries
 * [Requests - HTTP requests for humans](https://github.com/kennethreitz/requests)
 * [Httpie - CLI HTTP client](https://github.com/jkbrzt/httpie)
-* [Python Rex - regular expressions](https://github.com/cypreess/python-rex)
+* [Python Rex - regular expressions for humans](https://github.com/cypreess/python-rex)
 * [Envelopes - mailing for human beings](https://github.com/tomekwojcik/envelopes)
 
 ### Resources
