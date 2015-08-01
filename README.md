@@ -63,9 +63,10 @@ More information:
 * [Bottle](http://bottlepy.org/)
 
 ### Good & useful Python libraries
-* [Requests](https://github.com/kennethreitz/requests)
-* [Httpie](https://github.com/jkbrzt/httpie)
+* [Requests - HTTP requests for humans](https://github.com/kennethreitz/requests)
+* [Httpie - CLI HTTP client](https://github.com/jkbrzt/httpie)
 * [Python Rex - regular expressions](https://github.com/cypreess/python-rex)
+* [Envelopes - mailing for human beings](https://github.com/tomekwojcik/envelopes)
 
 ### Resources
 * https://www.python.org/
