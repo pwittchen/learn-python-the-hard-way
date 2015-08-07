@@ -1,8 +1,30 @@
 Learn Python - The Hard Way
 =========================
+
+### Overview
+
 Set of simple programs written during learning **basics of Python** language 
 
 based on *[Learn Python - The Hard Way](http://learnpythonthehardway.org/book/)* course.
+
+Moreover, this `README.md` file includes important and essential information concerning programming in Python.
+
+### Contents
+* [Requirements](#requirements)
+* [Installing Python](#installing-python)
+* [Executing Python scripts from terminal](#executing-python-scripts-from-terminal)
+* [Pip](#pip)
+ * [Installing Pip on Windows](#installing-pip-on-windows)
+ * [Installing Pip on Linux](#installing-pip-on-linux)
+ * [Using Pip](#using-pip)
+* [Unit Testing](#unit-testing)
+* [Virtualenv](#virtualenv)
+* [Style Guide for Python Code](#style-guide-for-python-code)
+* [Development Environments](#development-environments)
+* [Popular Python web frameworks](#popular-python-web-frameworks)
+* [Useful Python libraries](#useful-python-libraries)
+* [Resources](#resources)
+* [License](#license)
 
 ### Requirements
 * Windows, Linux or Mac OS X
@@ -20,7 +42,10 @@ based on *[Learn Python - The Hard Way](http://learnpythonthehardway.org/book/)*
 * in order to check installed version of the Python, type: `python --version`
 * in order to exit python console type `exit()`
 
-### Installing Pip (Python Package Manager) on Windows
+### Pip
+Pip is a Python Package Manager.
+
+#### Installing Pip on Windows
 1. Download: https://raw.github.com/pypa/pip/master/contrib/get-pip.py script
 2. Execute: `python get-pip.py`
 3. *pip.exe* and *easy_install.exe* files now should be located at: */PythonXX/Scripts* (e.g. *C:/Python27/Scripts*)
@@ -29,7 +54,7 @@ based on *[Learn Python - The Hard Way](http://learnpythonthehardway.org/book/)*
 6. Type `pip`, to check if package manager works
 7. You can type `pip --version`, in order to check version of the pip
 
-### Installing Pip on Linux (Ubuntu)
+#### Installing Pip on Linux
 1. Open terminal
 2. Type `sudo apt-get install python-pip`
 
@@ -58,7 +83,7 @@ More information:
 
 link: https://www.python.org/dev/peps/pep-0008/
 
-### Popular IDEs & editors
+### Development Environments
 * [PyCharm](https://www.jetbrains.com/pycharm/)
 * [Sublime Text](http://www.sublimetext.com/)
 * [Atom](https://atom.io/)
@@ -68,7 +93,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Flask](http://flask.pocoo.org/)
 * [Bottle](http://bottlepy.org/)
 
-### Good & useful Python libraries
+### Useful Python libraries
 * [Requests - HTTP requests for humans](https://github.com/kennethreitz/requests)
 * [Httpie - CLI HTTP client](https://github.com/jkbrzt/httpie)
 * [Python Rex - regular expressions for humans](https://github.com/cypreess/python-rex)
