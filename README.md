@@ -52,6 +52,12 @@ More information:
 * [Virtualenv tutorial](http://simononsoftware.com/virtualenv-tutorial/)
 * [A primer on virtualenv](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
 
+### Style Guide for Python Code
+
+**PEP 0008** is a current Style Guide for Python Code.
+
+link: https://www.python.org/dev/peps/pep-0008/
+
 ### Popular IDEs & editors
 * [PyCharm](https://www.jetbrains.com/pycharm/)
 * [Sublime Text](http://www.sublimetext.com/)
