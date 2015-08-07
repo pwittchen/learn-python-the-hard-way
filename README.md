@@ -3,11 +3,7 @@ Learn Python - The Hard Way
 
 ### Overview
 
-Set of simple programs written during learning **basics of Python** language 
-
-based on *[Learn Python - The Hard Way](http://learnpythonthehardway.org/book/)* course.
-
-Moreover, this `README.md` file includes important and essential information concerning programming in Python.
+Set of simple programs written during learning **basics of Python** language based on *[Learn Python - The Hard Way](http://learnpythonthehardway.org/book/)* course. All tasks can be found in *exercises* directory. In the same directory, we can found another `README.md` file including list of all tasks. Moreover, this `README.md` file includes important and essential information concerning programming in Python.
 
 ### Contents
 * [Requirements](#requirements)
