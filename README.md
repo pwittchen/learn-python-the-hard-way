@@ -67,6 +67,7 @@ More information:
 * [Httpie - CLI HTTP client](https://github.com/jkbrzt/httpie)
 * [Python Rex - regular expressions for humans](https://github.com/cypreess/python-rex)
 * [Envelopes - mailing for human beings](https://github.com/tomekwojcik/envelopes)
+* [Tornado - web framework and asynchronous networking library](https://github.com/tornadoweb/tornado)
 
 ### Resources
 * https://www.python.org/
