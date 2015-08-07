@@ -75,6 +75,7 @@ More information:
 * http://www.codecademy.com/en/tracks/python
 * http://www.diveintopython.net/
 * https://github.com/kennethreitz/python-guide
+* http://www.pyvideo.org/speaker/138/raymond-hettinger
 
 ### License
 MIT
