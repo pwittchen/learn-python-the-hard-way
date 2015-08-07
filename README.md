@@ -107,6 +107,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * http://www.diveintopython.net/
 * https://github.com/kennethreitz/python-guide
 * http://www.pyvideo.org/speaker/138/raymond-hettinger
+* http://slides.com/fwkz/awesome-python
 
 ### License
 MIT
