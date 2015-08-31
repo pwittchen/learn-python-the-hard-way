@@ -103,6 +103,8 @@ link: https://www.python.org/dev/peps/pep-0008/
 * http://www.diveintopython.net/
 * https://github.com/kennethreitz/python-guide
 * http://www.pyvideo.org/speaker/138/raymond-hettinger
+* https://github.com/s16h/py-must-watch
+* http://pymust.watch/
 * http://slides.com/fwkz/awesome-python
 
 ### License
