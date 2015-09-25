@@ -72,6 +72,7 @@ More information:
 * [Overview on PyPi](https://pypi.python.org/pypi/virtualenv)
 * [Virtualenv tutorial](http://simononsoftware.com/virtualenv-tutorial/)
 * [A primer on virtualenv](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
+* [Virtual Environments on Python Guide](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 
 ### Style Guide for Python Code
 
@@ -106,6 +107,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * https://github.com/s16h/py-must-watch
 * http://pymust.watch/
 * http://slides.com/fwkz/awesome-python
+* http://docs.python-guide.org/en/latest/
 
 ### License
 MIT
