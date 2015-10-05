@@ -96,6 +96,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Python Rex - regular expressions for humans](https://github.com/cypreess/python-rex)
 * [Envelopes - mailing for human beings](https://github.com/tomekwojcik/envelopes)
 * [Tornado - web framework and asynchronous networking library](https://github.com/tornadoweb/tornado)
+* [Schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
 
 ### Resources
 * https://www.python.org/
