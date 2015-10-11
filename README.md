@@ -15,6 +15,7 @@ Set of simple programs written during learning **basics of Python** language bas
  * [Using Pip](#using-pip)
 * [Unit Testing](#unit-testing)
 * [Virtualenv](#virtualenv)
+* [Scripts on Linux](#scripts-on-linux)
 * [Style Guide for Python Code](#style-guide-for-python-code)
 * [Development Environments](#development-environments)
 * [Popular Python web frameworks](#popular-python-web-frameworks)
@@ -73,6 +74,22 @@ More information:
 * [Virtualenv tutorial](http://simononsoftware.com/virtualenv-tutorial/)
 * [A primer on virtualenv](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
 * [Virtual Environments on Python Guide](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
+
+### Scripts on Linux
+
+If we want to create a Python script for Linux, we should set the following header:
+
+```python
+#!/usr/bin/python -u
+
+# your Python script code goes here...
+```
+
+After that when our script was saved in `script.py` file, we can execute our script as follows:
+
+```
+./script.py
+```
 
 ### Style Guide for Python Code
 
