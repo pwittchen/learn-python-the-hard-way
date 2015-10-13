@@ -19,7 +19,7 @@ Set of simple programs written during learning **basics of Python** language bas
 * [Style Guide for Python Code](#style-guide-for-python-code)
 * [Development Environments](#development-environments)
 * [Popular Python web frameworks](#popular-python-web-frameworks)
-* [Useful Python libraries](#useful-python-libraries)
+* [Useful Python libraries and tools](#useful-python-libraries-and-tools)
 * [Resources](#resources)
 * [License](#license)
 
@@ -107,13 +107,14 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Flask](http://flask.pocoo.org/)
 * [Bottle](http://bottlepy.org/)
 
-### Useful Python libraries
+### Useful Python libraries and tools
 * [Requests - HTTP requests for humans](https://github.com/kennethreitz/requests)
 * [Httpie - CLI HTTP client](https://github.com/jkbrzt/httpie)
 * [Python Rex - regular expressions for humans](https://github.com/cypreess/python-rex)
 * [Envelopes - mailing for human beings](https://github.com/tomekwojcik/envelopes)
 * [Tornado - web framework and asynchronous networking library](https://github.com/tornadoweb/tornado)
 * [Schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
+* [Wifite - An automated wireless attack tool](https://github.com/derv82/wifite)
 
 ### Resources
 * https://www.python.org/
