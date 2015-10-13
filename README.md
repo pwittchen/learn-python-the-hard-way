@@ -108,7 +108,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Flask](http://flask.pocoo.org/)
 * [Bottle](http://bottlepy.org/)
 
-### Useful Python libraries and tools
+### Useful Python libraries
 * [Requests - HTTP requests for humans](https://github.com/kennethreitz/requests)
 * [Httpie - CLI HTTP client](https://github.com/jkbrzt/httpie)
 * [Python Rex - regular expressions for humans](https://github.com/cypreess/python-rex)
