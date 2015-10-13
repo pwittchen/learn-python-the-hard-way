@@ -118,7 +118,9 @@ link: https://www.python.org/dev/peps/pep-0008/
 
 ### Tools written in Python
 
-* [Wifite - An automated wireless attack tool](https://github.com/derv82/wifite)
+* [Wifite - an automated wireless attack tool](https://github.com/derv82/wifite)
+* [Glances - an Eye on your system](https://github.com/nicolargo/glances)
+* [Pidcat - colored and improved logcat for Android apps](https://github.com/JakeWharton/pidcat)
 
 ### Resources
 * https://www.python.org/
