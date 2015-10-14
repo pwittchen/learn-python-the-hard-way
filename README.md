@@ -36,7 +36,7 @@ Set of simple programs written during learning **basics of Python** language bas
 
 ### Executing Python scripts from terminal
 * on Linux: Most of the Linux distributions should have enabled Python by default, so simply open terminal and type *python* to see if everything works.
-* on Windows: add */PythonXX* (e.g. *C:/Python27*) into *Path* environmental variable. Location of the Python directory depends on your configuration. Next, re-run terminal window and type `python`
+* on Windows: add `/PythonXX` (e.g. `C:/Python27`) into `Path` environmental variable. Location of the Python directory depends on your configuration. Next, re-run terminal window and type `python`
 * in order to check installed version of the Python, type: `python --version`
 * in order to exit python console type `exit()`
 
