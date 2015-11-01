@@ -105,7 +105,11 @@ link: https://www.python.org/dev/peps/pep-0008/
 
 ### Popular Python web frameworks
 * [Django](https://www.djangoproject.com/)
+  * [Django Rest Framework](https://github.com/tomchristie/django-rest-framework)
+  * [Silk - smooth profiling for Django](https://github.com/mtford90/silk)
 * [Flask](http://flask.pocoo.org/)
+  * [Flask Restful](https://github.com/flask-restful/flask-restful)
+  * [Flask profiler](https://github.com/muatik/flask-profiler)
 * [Bottle](http://bottlepy.org/)
 
 ### Useful Python libraries
