@@ -119,6 +119,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Envelopes - mailing for human beings](https://github.com/tomekwojcik/envelopes)
 * [Tornado - web framework and asynchronous networking library](https://github.com/tornadoweb/tornado)
 * [Schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
+* [Agata - data analysis for humans](https://github.com/onyxfish/agate)
 
 ### Tools written in Python
 
