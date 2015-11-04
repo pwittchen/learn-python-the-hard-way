@@ -120,6 +120,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Tornado - web framework and asynchronous networking library](https://github.com/tornadoweb/tornado)
 * [Schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
 * [Agate - data analysis for humans](https://github.com/onyxfish/agate)
+* [Gspread - Google Spreadsheets Python API](https://github.com/burnash/gspread)
 
 ### Tools written in Python
 
