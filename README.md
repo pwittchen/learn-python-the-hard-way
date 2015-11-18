@@ -21,6 +21,7 @@ Set of simple programs written during learning **basics of Python** language bas
 * [Popular Python web frameworks](#popular-python-web-frameworks)
 * [Useful Python libraries](#useful-python-libraries)
 * [Tools written in Python](#tools-written-in-python)
+* [Collections of tools written in Python](#collections-of-tools-written-in-python)
 * [Resources](#resources)
 * [License](#license)
 
@@ -128,6 +129,9 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Wifite - an automated wireless attack tool](https://github.com/derv82/wifite)
 * [Glances - an Eye on your system](https://github.com/nicolargo/glances)
 * [Pidcat - colored and improved logcat for Android apps](https://github.com/JakeWharton/pidcat)
+
+### Collections of tools written in Python
+* [Python Pentest Tools](https://github.com/dloss/python-pentest-tools)
 
 ### Resources
 * https://www.python.org/
