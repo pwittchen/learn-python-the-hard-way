@@ -117,6 +117,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Requests - HTTP requests for humans](https://github.com/kennethreitz/requests)
 * [Httpie - CLI HTTP client](https://github.com/jkbrzt/httpie)
 * [Python Rex - regular expressions for humans](https://github.com/cypreess/python-rex)
+* [PythonVerbalExpressions - readable API for regular expressions](https://github.com/VerbalExpressions/PythonVerbalExpressions)
 * [Envelopes - mailing for human beings](https://github.com/tomekwojcik/envelopes)
 * [Tornado - web framework and asynchronous networking library](https://github.com/tornadoweb/tornado)
 * [Schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
