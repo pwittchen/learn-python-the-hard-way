@@ -18,7 +18,7 @@ Set of simple programs written during learning **basics of Python** language bas
 * [Scripts on Linux](#scripts-on-linux)
 * [Style Guide for Python Code](#style-guide-for-python-code)
 * [Development Environments](#development-environments)
-* [Popular Python web frameworks](#popular-python-web-frameworks)
+* [Python web frameworks](#python-web-frameworks)
 * [Useful Python libraries](#useful-python-libraries)
 * [Tools written in Python](#tools-written-in-python)
 * [Collections of tools written in Python](#collections-of-tools-written-in-python)
@@ -104,7 +104,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Sublime Text](http://www.sublimetext.com/)
 * [Atom](https://atom.io/)
 
-### Popular Python web frameworks
+### Python web frameworks
 * [Django](https://www.djangoproject.com/)
   * [Django Rest Framework](https://github.com/tomchristie/django-rest-framework)
   * [Silk - smooth profiling for Django](https://github.com/mtford90/silk)
@@ -112,6 +112,7 @@ link: https://www.python.org/dev/peps/pep-0008/
   * [Flask Restful](https://github.com/flask-restful/flask-restful)
   * [Flask Profiler](https://github.com/muatik/flask-profiler)
 * [Bottle](http://bottlepy.org/)
+* [Weppy](https://github.com/gi0baro/weppy)
 
 ### Useful Python libraries
 * [Requests - HTTP requests for humans](https://github.com/kennethreitz/requests)
