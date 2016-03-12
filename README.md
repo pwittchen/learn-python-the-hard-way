@@ -125,6 +125,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Agate - data analysis for humans](https://github.com/onyxfish/agate)
 * [Gspread - Google Spreadsheets Python API](https://github.com/burnash/gspread)
 * [EFILTER (dotty) - a general-purpose destructuring and search language](https://github.com/google/dotty)
+* [Scrapy - web crawling & scraping framework](https://github.com/scrapy/scrapy)
 
 ### Tools written in Python
 
