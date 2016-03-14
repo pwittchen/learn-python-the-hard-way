@@ -150,6 +150,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * http://slides.com/fwkz/awesome-python
 * http://docs.python-guide.org/en/latest/
 * https://github.com/bslatkin/effectivepython
+* https://github.com/kennethreitz/python-guide
 
 ### License
 MIT
