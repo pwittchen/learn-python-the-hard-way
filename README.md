@@ -151,6 +151,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * http://docs.python-guide.org/en/latest/
 * https://github.com/bslatkin/effectivepython
 * https://github.com/kennethreitz/python-guide
+* https://github.com/Junnplus/awesome-python-books
 
 ### License
 MIT
