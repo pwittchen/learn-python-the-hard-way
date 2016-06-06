@@ -138,6 +138,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 ### Collections of tools written in Python
 * [Python Pentest Tools](https://github.com/dloss/python-pentest-tools)
 * [awesome-python - curated list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python)
+* [one-python - best Python libraries](https://github.com/geekan/one-python)
 
 ### Resources
 * https://www.python.org/
