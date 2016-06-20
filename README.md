@@ -134,6 +134,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Glances - an Eye on your system](https://github.com/nicolargo/glances)
 * [Pidcat - colored and improved logcat for Android apps](https://github.com/JakeWharton/pidcat)
 * [Caffeine-plus - indicator preventing from turning screensaver/screenlock on](https://github.com/mildmojo/caffeine-plus)
+* [Spaceship generator - a script for Blender](https://github.com/a1studmuffin/SpaceshipGenerator)
 
 ### Collections of tools written in Python
 * [Python Pentest Tools](https://github.com/dloss/python-pentest-tools)
