@@ -12,6 +12,7 @@ Set of simple programs written during learning **basics of Python** language bas
 * [Pip](#pip)
  * [Installing Pip on Windows](#installing-pip-on-windows)
  * [Installing Pip on Linux](#installing-pip-on-linux)
+ * [Installing Pip on macOS](#installing-pip-on-macos)
  * [Using Pip](#using-pip)
 * [Unit Testing](#unit-testing)
 * [Virtualenv](#virtualenv)
@@ -56,6 +57,12 @@ Pip is a Python Package Manager.
 #### Installing Pip on Linux
 1. Open terminal
 2. Type `sudo apt-get install python-pip`
+
+#### Installing Pip on macOS
+1. Open terminal
+2. Type `brew install python3`
+
+This command will install python and pip.
 
 #### Using Pip
 * In order to install desired package just type `pip install desired_package` (e.g. `pip install Flask`)
