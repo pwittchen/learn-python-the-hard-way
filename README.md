@@ -135,6 +135,8 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Pidcat - colored and improved logcat for Android apps](https://github.com/JakeWharton/pidcat)
 * [Caffeine-plus - indicator preventing from turning screensaver/screenlock on](https://github.com/mildmojo/caffeine-plus)
 * [Spaceship generator - a script for Blender](https://github.com/a1studmuffin/SpaceshipGenerator)
+* [neighbourhood - Layer 2 network neighbourhood discovery tool that uses scapy](https://github.com/bwaldvogel/neighbourhood)
+* [Routersploit - The Router Exploitation Framework](https://github.com/reverse-shell/routersploit)
 
 ### Collections of tools written in Python
 * [Python Pentest Tools](https://github.com/dloss/python-pentest-tools)
