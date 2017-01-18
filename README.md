@@ -122,6 +122,9 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Weppy](https://github.com/gi0baro/weppy)
 * [Growler](https://github.com/pyGrowler/Growler)
 
+### Web servers
+* [sanic - python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)
+
 ### Useful Python libraries
 * [Requests - HTTP requests for humans](https://github.com/kennethreitz/requests)
 * [Httpie - CLI HTTP client](https://github.com/jkbrzt/httpie)
