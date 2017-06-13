@@ -106,6 +106,12 @@ After that when our script was saved in `script.py` file, we can execute our scr
 
 link: https://www.python.org/dev/peps/pep-0008/
 
+### Static Code Analysis
+
+- [Review of Python static code analysis tools](https://blog.codacy.com/review-of-python-static-analysis-tools-ff8e7e27f972)
+- [Pylint](https://www.pylint.org/)
+- [Awesome static analysis for Python](https://github.com/mre/awesome-static-analysis#python)
+
 ### Development Environments
 * [PyCharm](https://www.jetbrains.com/pycharm/)
 * [Sublime Text](http://www.sublimetext.com/)
