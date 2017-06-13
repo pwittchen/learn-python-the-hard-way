@@ -18,6 +18,7 @@ Set of simple programs written during learning **basics of Python** language bas
 * [Virtualenv](#virtualenv)
 * [Scripts on Linux](#scripts-on-linux)
 * [Style Guide for Python Code](#style-guide-for-python-code)
+* [Static code analysis](#static-code-analysis)
 * [Development Environments](#development-environments)
 * [Python web frameworks](#python-web-frameworks)
 * [Useful Python libraries](#useful-python-libraries)
