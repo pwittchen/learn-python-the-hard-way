@@ -175,6 +175,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * https://github.com/bslatkin/effectivepython
 * https://github.com/kennethreitz/python-guide
 * https://github.com/Junnplus/awesome-python-books
+* https://github.com/crazyguitar/pysheeet
 
 ### Books
 * [Effective Python](http://www.effectivepython.com/)
