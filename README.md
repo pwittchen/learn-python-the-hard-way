@@ -144,6 +144,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * [Gspread - Google Spreadsheets Python API](https://github.com/burnash/gspread)
 * [EFILTER (dotty) - a general-purpose destructuring and search language](https://github.com/google/dotty)
 * [Scrapy - web crawling & scraping framework](https://github.com/scrapy/scrapy)
+* [sh - Python process launching (llows you to call any program as if it were a function)](https://github.com/amoffat/sh)
 
 ### Tools written in Python
 
