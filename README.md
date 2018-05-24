@@ -109,8 +109,9 @@ link: https://www.python.org/dev/peps/pep-0008/
 
 ### Static Code Analysis
 
-- [Review of Python static code analysis tools](https://blog.codacy.com/review-of-python-static-analysis-tools-ff8e7e27f972)
 - [Pylint](https://www.pylint.org/)
+- [Pytype (by Google)](https://github.com/google/pytype)
+- [Review of Python static code analysis tools](https://blog.codacy.com/review-of-python-static-analysis-tools-ff8e7e27f972)
 - [Awesome static analysis for Python](https://github.com/mre/awesome-static-analysis#python)
 
 ### Development Environments
