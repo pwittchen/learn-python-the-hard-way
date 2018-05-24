@@ -16,6 +16,7 @@ Set of simple programs written during learning **basics of Python** language bas
  * [Using Pip](#using-pip)
 * [Unit Testing](#unit-testing)
 * [Virtualenv](#virtualenv)
+* [Pipenv](#pipenv)
 * [Scripts on Linux](#scripts-on-linux)
 * [Style Guide for Python Code](#style-guide-for-python-code)
 * [Static code analysis](#static-code-analysis)
@@ -84,6 +85,15 @@ More information:
 * [Virtualenv tutorial](http://simononsoftware.com/virtualenv-tutorial/)
 * [A primer on virtualenv](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
 * [Virtual Environments on Python Guide](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
+
+### Pipenv
+
+`pipenv` is Python Development Workflow for Humans.
+
+It automatically creates and manages a virtualenv for your projects, as well as adds/removes packages from your Pipfile as you install/uninstall packages.
+
+More information:
+* https://github.com/pypa/pipenv
 
 ### Scripts on Linux
 
