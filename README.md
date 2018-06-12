@@ -190,6 +190,7 @@ link: https://www.python.org/dev/peps/pep-0008/
 * https://github.com/Junnplus/awesome-python-books
 * https://github.com/crazyguitar/pysheeet
 * https://github.com/satwikkansal/wtfpython
+* https://mail.python.org/pipermail/python-list/1999-June/001951.html
 
 ### Books
 * [Effective Python](http://www.effectivepython.com/)
