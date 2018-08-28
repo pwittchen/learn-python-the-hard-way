@@ -17,6 +17,7 @@ Set of simple programs written during learning **basics of Python** language bas
 * [Unit Testing](#unit-testing)
 * [Virtualenv](#virtualenv)
 * [Pipenv](#pipenv)
+* [Pyenv](#pyenv)
 * [Scripts on Linux](#scripts-on-linux)
 * [Style Guide for Python Code](#style-guide-for-python-code)
 * [Static code analysis](#static-code-analysis)
@@ -94,6 +95,10 @@ It automatically creates and manages a virtualenv for your projects, as well as 
 
 More information:
 * https://github.com/pypa/pipenv
+
+### Pyenv
+
+[pyenv](https://github.com/pyenv/pyenv/) is a simple Python version management.
 
 ### Scripts on Linux
 
