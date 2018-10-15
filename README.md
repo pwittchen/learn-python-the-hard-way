@@ -124,6 +124,8 @@ After that when our script was saved in `script.py` file, we can execute our scr
 
 link: https://www.python.org/dev/peps/pep-0008/
 
+code style: https://docs.python-guide.org/writing/style/
+
 ### Static Code Analysis
 
 - [Pylint](https://www.pylint.org/)
