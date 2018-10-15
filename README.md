@@ -164,7 +164,7 @@ code style: https://docs.python-guide.org/writing/style/
 * [Gspread - Google Spreadsheets Python API](https://github.com/burnash/gspread)
 * [EFILTER (dotty) - a general-purpose destructuring and search language](https://github.com/google/dotty)
 * [Scrapy - web crawling & scraping framework](https://github.com/scrapy/scrapy)
-* [sh - Python process launching (llows you to call any program as if it were a function)](https://github.com/amoffat/sh)
+* [sh - Python process launching (allows you to call any program as if it were a function)](https://github.com/amoffat/sh)
 * [furl - url parsing and manipulation](https://github.com/gruns/furl)
 
 ### Tools written in Python
