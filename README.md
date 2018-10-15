@@ -203,6 +203,7 @@ code style: https://docs.python-guide.org/writing/style/
 * https://github.com/trekhleb/learn-python
 * https://docs.python-guide.org/writing/style/
 * https://realpython.com/
+* https://python-for-system-administrators.readthedocs.io/en/latest/
 
 ### Videos
 * [Transforming code into beautiful, idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
