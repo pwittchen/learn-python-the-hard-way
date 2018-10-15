@@ -27,6 +27,8 @@ Set of simple programs written during learning **basics of Python** language bas
 * [Tools written in Python](#tools-written-in-python)
 * [Collections of tools written in Python](#collections-of-tools-written-in-python)
 * [Resources](#resources)
+* [Videos](#videos)
+* [Books](#books)
 * [License](#license)
 
 ### Requirements
@@ -197,6 +199,11 @@ link: https://www.python.org/dev/peps/pep-0008/
 * https://github.com/satwikkansal/wtfpython
 * https://mail.python.org/pipermail/python-list/1999-June/001951.html
 * https://github.com/trekhleb/learn-python
+* https://docs.python-guide.org/writing/style/
+* https://realpython.com/
+
+### Videos
+* [Transforming code into beautiful, idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 
 ### Books
 * [Effective Python](http://www.effectivepython.com/)
