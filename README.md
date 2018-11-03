@@ -166,6 +166,7 @@ code style: https://docs.python-guide.org/writing/style/
 * [Scrapy - web crawling & scraping framework](https://github.com/scrapy/scrapy)
 * [sh - Python process launching (allows you to call any program as if it were a function)](https://github.com/amoffat/sh)
 * [furl - url parsing and manipulation](https://github.com/gruns/furl)
+* [schedule - python job scheduling for humans](https://github.com/dbader/schedule/)
 
 ### Tools written in Python
 
