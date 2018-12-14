@@ -84,6 +84,7 @@ This command will install python and pip.
 `virtualenv` is a tool to create isolated Python environments.
 
 More information:
+* [Official docs and user guide](https://virtualenv.pypa.io/en/latest/)
 * [Overview on PyPi](https://pypi.python.org/pypi/virtualenv)
 * [Virtualenv tutorial](http://simononsoftware.com/virtualenv-tutorial/)
 * [A primer on virtualenv](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
