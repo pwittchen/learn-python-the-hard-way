@@ -208,6 +208,7 @@ code style: https://docs.python-guide.org/writing/style/
 * https://realpython.com/
 * https://python-for-system-administrators.readthedocs.io/en/latest/
 * https://konradhalas.pl/articles/python-resources/
+* https://github.com/machinelearningmindset/machine-learning-course
 
 ### Videos
 * [Transforming code into beautiful, idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
